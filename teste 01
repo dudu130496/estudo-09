@@ -1,0 +1,3 @@
+n = float(input('qual o valor do produto?'))
+p = n - (n*5/100)
+print('o seu desconto e de 5% e o valor atual do produto e de {}'.format(p))
